@@ -1,6 +1,6 @@
 # Veda-AI-DocBot
 
-![](https://github.com/ambujalpha/Veda-Python-AI-Talking-BOT/blob/master/images/main.jpg)
+![](https://github.com/ambujalpha/Veda_AI_DocBot/blob/master/images/main.jpg)
 
 # (I) Introduction : 
 
@@ -52,7 +52,7 @@ engine.setProperty('voice',voices[0].id)
 Link- https://www.cereproc.com/en/node/645
 
 
-![](https://github.com/ambujalpha/Veda-Python-AI-Talking-BOT/blob/master/images/api.png)
+![](https://github.com/ambujalpha/Veda_AI_DocBot/blob/master/images/api.png)
 
 # (IV) Libraries used :
 
@@ -60,7 +60,7 @@ Link- https://www.cereproc.com/en/node/645
 
 Library for performing speech recognition, with support for several engines and APIs, online and offline.
 
-![](https://github.com/ambujalpha/Veda-Python-AI-Talking-BOT/blob/master/images/speech.png)
+![](https://github.com/ambujalpha/Veda_AI_DocBot/blob/master/images/speech.png)
 
 ## pyttsx3(python text to speech) :
 
@@ -70,13 +70,13 @@ A Python3 library used for text to speech conversion.
 
 Wikipedia module to integrate wikipedia search.
 
-![](https://github.com/ambujalpha/Veda-Python-AI-Talking-BOT/blob/master/images/wiki.jfif)
+![](https://github.com/ambujalpha/Veda_AI_DocBot/blob/master/images/wiki.jfif)
 
 ## webbrowser :
 The webbrowser module provides a high-level interface to allow displaying Web-based documents to users. Under most circumstances, simply calling the open() function from this module will do the right thing.
 
 
-![](https://github.com/ambujalpha/Veda-Python-AI-Talking-BOT/blob/master/images/browser.png)
+![](https://github.com/ambujalpha/Veda_AI_DocBot/blob/master/images/browser.png)
 
 ## smtplib :
 
@@ -89,7 +89,7 @@ A simple python wrapper for the Firebase API.
 link- https://github.com/thisbejim/Pyrebase
 
 
-![](https://github.com/ambujalpha/Veda-Python-AI-Talking-BOT/blob/master/images/pyrebase.jpg)
+![](https://github.com/ambujalpha/Veda_AI_DocBot/blob/master/images/pyrebase.jpg)
 
 # (VI) Conclusions :
 
